@@ -14,9 +14,10 @@
 - Lending club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures at lower interest rate loans through a fast online interface.
     <br><br>
 - Two types of risks are associated with any company’s decision of lending loan
-	1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
     <br><br>
-    * If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss(credit loss) for the company.
+	1) If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+    <br><br>
+    2) If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss(credit loss) for the company.
     <br><br>
 - The aim of this case study is to understand the driving factors (or driver variables) behind loan default (2nd type of risk), i.e. the variables which are strong indicators of default. Thus, the company can utilize this knowledge for its portfolio and risk assessment. 
 
@@ -24,13 +25,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-# a. Observations 
-> - 50% of customers apply loans in the range of 5275 to 15000
+#### a. Observations 
+- 50% of customers apply loans in the range of 5275 to 15000
 - Most of the customers have mortgage home or are on rent
 - 50% of customers have interest rate between 8.17% to 18.57%
 
-# b. Risk Analysis  
-> - Higher the loan amount, more likely the customers are to be defaulted
+#### b. Risk Analysis  
+- Higher the loan amount, more likely the customers are to be defaulted
 - At higher interest rate, customers are more likely to be defaulted
 - Small_business owners are the highest defaulters
 - People with higher income default less
@@ -70,7 +71,7 @@
 
 
 ## Contact
-Created by [@divya10sodha] - feel free to contact me!
+Created by [@Divya10Sodha] - feel free to contact me!
 
 
 <!-- Optional -->
