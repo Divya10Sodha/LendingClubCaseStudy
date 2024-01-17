@@ -63,12 +63,7 @@
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-- This project was inspired by the Upgrad Team and IIIT Bangalore and helped me to learn a lot about the Exploratory Data Analysis. 
-- I would be greatful to the IIIT Bangalore as well as the Upgrad Team for providing opportunity to work on such real-time project.  
-
-
+  
 
 ## Contact
 Created by [@Divya10Sodha] - feel free to contact me!
